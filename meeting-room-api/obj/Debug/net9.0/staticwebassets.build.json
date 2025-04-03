@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "b4pBRrEGkjZOqZEy44Z5lIhxe0++aLJRW3yQatq9Nxc=",
+  "Source": "meeting-room-api",
+  "BasePath": "_content/meeting-room-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
