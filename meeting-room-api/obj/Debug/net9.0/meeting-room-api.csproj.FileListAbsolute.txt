@@ -37,3 +37,4 @@ C:\Users\erzincansivas\Documents\Intensivwoche2\meeting-room-api\obj\Debug\net9.
 C:\Users\erzincansivas\Documents\Intensivwoche2\meeting-room-api\obj\Debug\net9.0\meeting-room-api.pdb
 C:\Users\erzincansivas\Documents\Intensivwoche2\meeting-room-api\obj\Debug\net9.0\meeting-room-api.genruntimeconfig.cache
 C:\Users\erzincansivas\Documents\Intensivwoche2\meeting-room-api\obj\Debug\net9.0\ref\meeting-room-api.dll
+C:\Users\erzincansivas\Documents\Intensivwoche2\meeting-room-api\obj\Debug\net9.0\meeting-room-api.sourcelink.json

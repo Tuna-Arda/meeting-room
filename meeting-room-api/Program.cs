@@ -13,15 +13,15 @@ builder.Services.AddCors(options =>
     });
 });
 
-// Optionale OpenAPI-Konfiguration
+
 builder.Services.AddOpenApi();
 
-// Controller oder minimal APIs hinzufügen (bei minimal APIs gibt es hier evtl. nichts weiter)
+
 builder.Services.AddControllers();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
@@ -29,8 +29,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-// Aktiviere die CORS-Policy
+
 app.UseCors("FrontendPolicy");
+
+// Hier werden alle Controller-Routen gemappt:
+app.MapControllers();
 
 var summaries = new[]
 {

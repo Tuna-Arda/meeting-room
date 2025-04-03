@@ -1,4 +1,4 @@
-﻿const API_URL = "http://localhost:7000/"; 
+﻿const API_URL = "http://localhost:7000/api"; 
 // Falls dein Backend anders laeuft (z.B. https://localhost:5000/api), bitte anpassen
 
 // ========== ROOMS ==========
